@@ -26,7 +26,7 @@
 
 //     try {
 //       const response = await axios.post(
-//         "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyA6Aw5J5f3UFrCxYNSJoT5phSl-0kwtv1o",
+//         "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=API-KEY",
 //         {
 //           contents: [
 //             {
